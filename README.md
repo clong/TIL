@@ -21,3 +21,5 @@ warrant a full blog post.
 - [Customize margins in TextEdit](mac/textedit_margins.md)
 ### Splunk
 - [Filter incoming data using nullqueues with regex](splunk/filter_data_nullqueue.md)
+### VMware/ESXi
+- [Install rsync onto ESXi](vmware/rsync.md)
